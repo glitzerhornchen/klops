@@ -1,0 +1,7 @@
+[
+  {
+    "label": "Build HTML",
+    "command": "make",
+    "args": ["html"]
+  }
+]
