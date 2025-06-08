@@ -4,7 +4,7 @@ Wir glauben es ist wichtig auch eine Bildsprache zu etablieren, die später als 
 
 ![allmende](assets/glirrel_achtet_die_allmende.svg){.bg-warning w=200px align=left }
 ![excellent](assets/glirrel_be_excellent_to_each_other.svg){.bg-warning w=200px align=right}
-![behind](assets/glirrel_leave_no_one_behind.svg){.bg-warning w=200px  align=center}
+![behind](assets/glirrel_leave_no_one_behind.svg){.bg-warning w=200px align=center}
 ![glirrel1](assets/glirrel1.svg){.bg-warning w=200px  align=right}
 ![glirrel2](assets/glirrel2.svg){.bg-warning w=200px  align=left}
 ![glirrel3](assets/glirrel3.svg){.bg-warning w=200px  align=center}
