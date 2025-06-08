@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
-   sodipodi:docname="glirrel_leave_no_one_behind.svg"
+   sodipodi:docname="glirrel1.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="21.317718"
-     inkscape:cx="579.44757"
-     inkscape:cy="221.57625"
+     inkscape:zoom="2.1693976"
+     inkscape:cx="741.91104"
+     inkscape:cy="497.60358"
      inkscape:window-width="1916"
      inkscape:window-height="1020"
      inkscape:window-x="0"
@@ -75,31 +75,10 @@
          style="stroke-width:0.264583"
          x="9.1855679"
          y="119.41237" /></text>
-    <text
-       xml:space="preserve"
-       style="font-size:14.1111px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
-       x="12.247422"
-       y="139.82474"
-       id="text9"><tspan
-         sodipodi:role="line"
-         style="stroke-width:0.264583"
-         x="12.247422"
-         y="139.82474"
-         id="tspan11">Leave </tspan><tspan
-         sodipodi:role="line"
-         style="stroke-width:0.264583"
-         x="12.247422"
-         y="157.46361"
-         id="tspan12">no one </tspan><tspan
-         sodipodi:role="line"
-         style="stroke-width:0.264583"
-         x="12.247422"
-         y="175.10249"
-         id="tspan13">behind.</tspan></text>
     <path
        style="fill:#ffffff;stroke-width:0.264583"
        id="path3"
-       d="m 155.6485,59.158525 c 5.19235,-2.991207 -0.42682,-4.132007 -2.10529,-3.615593 -33.74401,13.280243 14.7008,70.456268 -14.00369,96.024138 -28.34932,25.25152 -52.063171,-26.99824 -30.2817,-40.5509 0.30065,-0.23194 1.90523,-0.68504 1.79298,-1.31142 -0.0309,-0.17225 -0.21232,-0.27824 -0.31847,-0.41736 l -0.15851,-0.022 v 0 c -15.977102,0.15303 -25.283476,20.2753 -8.48606,43.09371 -5.838084,-7.88859 14.47689,27.504 45.05641,-0.61511 9.76513,-8.97943 11.58396,-17.7957 9.61739,-31.31059 0.007,-16.70665 -19.36778,-50.647742 -1.11306,-61.274875 z"
+       d="m 155.6485,59.158525 c 5.19235,-2.991207 -0.42682,-4.132007 -2.10529,-3.615593 -33.74401,13.280243 14.7008,70.456268 -14.00369,96.024138 -28.34932,25.25152 -52.063171,-26.99824 -30.2817,-40.5509 0.30065,-0.23194 1.90523,-0.68504 1.79298,-1.31142 -0.0309,-0.17225 -0.21232,-0.27824 -0.31847,-0.41736 l -0.15851,-0.022 v 0 c -15.977102,0.15303 -25.283476,20.2753 -8.48606,43.09371 -5.838084,-7.88859 18.86999,32.83436 46.75847,2.04436 8.80772,-9.72408 11.46305,-27.69135 8.36496,-41.96056 -3.57707,-22.431752 -19.81741,-42.657242 -1.56269,-53.284375 z"
        sodipodi:nodetypes="ccsccccscscc" />
   </g>
 </svg>
