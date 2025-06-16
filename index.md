@@ -8,5 +8,3 @@
 ```{include} docs/contribute.md
 ```{include} docs/contribute.md
 ```
-```{include} docs/iterations.md
-```

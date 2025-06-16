@@ -1,6 +1,6 @@
 ## Symbole
 
-Wir glauben es ist wichtig auch eine Bildsprache zu etablieren, die später als Erkennung genutzt werden kann. Da die Glitzerhörnchen unsere Maskottchen sind ist unser tag eine stilisiertet Schweif und Ohren. In Buchstaben `^^S` `?^^`.
+Wir glauben es ist wichtig auch eine Bildsprache zu etablieren, die später als Erkennung genutzt werden kann. Da die Glitzerhörnchen unsere Maskottchen sind ist unser tag eine stilisiertet Schweif und Ohren. In Buchstaben `^^S` oder `?^^`.
 
 ![glirrel1](assets/glirrel1.svg){.bg-warning w=200px  align=right}
 ![glirrel2](assets/glirrel2.svg){.bg-warning w=200px  align=left}
