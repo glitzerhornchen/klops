@@ -4,16 +4,16 @@ Wir glauben das vor dem Kollaps nach dem Kollaps sein kann und daher wollen wir 
 
 _Jedem Preppen wohnt ein Anfang inne._ - Lili Analog
 
-### Passt auf einander auf - leave no one behind
+__Passt auf einander auf. Leave no one behind.__
 
-### Be excelent to each other,
+__Be excelent to each other.__
 
-### Achtet die Allmende - beware the commons
+__Achtet die Allmende. Beware the commons.__
 
-### pflegt Resilienz and Kultivierungen - maintain resilience and cultivations
+__pflegt Resilienz and kultiviert. Maintain resilience and cultivations.__
 
-### Make eye contact, talk small and listen great
+__Make eye contact, talk small and listen great.__
 
-### Be reflective if you must be armed
+__Be reflective if you must be armed.__
 
-### Belive in truth, aim for consens and clearification
+__Belive in truth, aim for consens and clear the deck.__

@@ -13,11 +13,13 @@ Kurze Beschreibung: <Eins, zwei Sätze, wie das Modul abläuft>
 Spieler_innen und Spielleiter: <Wie viele Spieler (von bis) braucht es in etwa braucht es eine Spielleitung?>
 Vorraussetzungen: <Was braucht es um das Modul zu spielen.>
 Dauer: <Wie lange das in etwa dauert>
+Eskalationen: <Wie lässt sich die Herausforderung etwas weiter treiben und wie ins richtige Leben einbauen?>
 ```
 
 ### Möglichkeiten zum hinterlassen von Ideen
 
-Die einfachste Möglichkeit ist es in einem __Etherpad__ eine Spielidee zu hinterlassen, wir versuchen regelmäßig neue sachen ab zu grasen. <URL>
+Die einfachste Möglichkeit ist es in einem __Etherpad__ eine Spielidee zu hinterlassen, wir versuchen regelmäßig neue sachen ab zu grasen.
+<https://pad.riseup.net/p/klops_idee-keep>
 
 Wenn du eine Github account hast kannst du entweder einen __issue__ eröffnen oder einfach selbst eine __pull request__ zu hinterlassen. <URL>
 
