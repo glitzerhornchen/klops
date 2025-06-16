@@ -7,11 +7,17 @@ Die Glitzerhörnchen sind ein offenes Projekt, die Ziel ist es viele gute Ideen 
 Um die Module besser ein sortieren zu können gibt es diese Vorlage:
 
 **Modulname**: `<Ein treffender Titel mit Wiedererkennungswert, beschreibend oder verschleiernd ist egal.>`
+
 **WerteKanon**: `<Welche Werte außer Spaß fördert der das Modul>`
+
 **Kurzbeschreibung**: `<Eins, zwei Sätze, wie das Modul abläuft>`
+
 **Spieler_innen und Spielleitung**: `<Wie viele Spieler (von bis) braucht es in etwa? Wird eine Spielleitung benötigt?>`
+
 **Vorraussetzungen**: `<Was braucht es um das Modul zu spielen?>`
+
 **Dauer**: `<Wie lange dauert ein Durchlauf etwa?>`
+
 **EskalationStufen**: `<Wie lässt sich die Herausforderung etwas weiter treiben und wie ins richtige Leben einbauen?>`
 
 ### Möglichkeiten zum hinterlassen von Ideen
