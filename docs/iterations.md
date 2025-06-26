@@ -5,13 +5,20 @@ Ziel: KloPS will durch spielerisches Einüben grundlegende solidarische, taktisc
 
 G = Grundsatz, T=Themenbereich, S = Spielidee, C = Challenge, M = Meta
 
+
+
+done:
+
 - Be excelent to each other (G)
 - Grundwerte/goldene Regeln/10 Gebote (G)
+- (spontan-) Plenum (S)
+
+todo:
+
 - Selbstwirksamkeit (G)
 - Währung Vertrauen (G)
 - Reparatur (T)
 - Demokonsens (T)
-- (spontan-) Plenum (S)
 - Wege erzählen (wie in Sachsen) (S)
 - Symbole, zur Erkennung und Markierung (G)
 - Challenges (T)
@@ -53,10 +60,8 @@ G = Grundsatz, T=Themenbereich, S = Spielidee, C = Challenge, M = Meta
 ## Was wollen wir grundsätzlich?
 
 - Modular ist gut
-- Aufmerksamskeitspanne bei fusion gering
  - Vogelstimmen,
  - handelsreisender, zeit klug.organisiert euch
- - stickerspur
  -
 
 - mythische bausteine einer bewegung, wenn man nichts mehr findet, was findet man?
@@ -66,7 +71,6 @@ G = Grundsatz, T=Themenbereich, S = Spielidee, C = Challenge, M = Meta
 - was ist es in einem punkt, was ist es in einem symbol.
 - Zeichensystem mit spuren hinterlassen
 - fusion rudimentär
-- Kollapscamp dann weiter
 - Spiel des erfolgs, Fähigkeiten und Fertigkeiten Levelbaum
 - gegen hamster.
 
@@ -78,4 +82,6 @@ G = Grundsatz, T=Themenbereich, S = Spielidee, C = Challenge, M = Meta
 - Freude
 - Freundschaft
 - Verlässlichkeit
+- Zuversicht
+- fake workshop (ch)
 -
